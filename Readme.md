@@ -10,8 +10,8 @@ To set up the project, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
-   cd yourproject
+   git clone https://github.com/mnawaz6935/FastAPI.git
+   cd FastAPI
    ```
 
 2. **Create a virtual environment:**
